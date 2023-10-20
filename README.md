@@ -26,10 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 216.84782608695653%; height: 0;"><iframe src="https://www.loom.com/embed/a8e638249db34100815247eacc8b4964?sid=9bd57d40-ba78-42c0-8e73-ed894b89f8ec" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-## Notes
-
+<div>
+    <a href="https://www.loom.com/share/a8e638249db34100815247eacc8b4964">
+    </a>
+    <a href="https://www.loom.com/share/a8e638249db34100815247eacc8b4964">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a8e638249db34100815247eacc8b4964-with-play.gif">
+    </a>
+  </div>
 Describe any challenges encountered while building the app.
 
 ## License
